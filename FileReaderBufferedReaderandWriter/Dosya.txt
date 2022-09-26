@@ -1,0 +1,8 @@
+Python, Yapay Zeka
+Java , Web
+C++ , Yapay Zeka
+C , Yapay Zeka
+Php , Web
+Swift , Mobil
+Kotlin , Mobil
+Docker
